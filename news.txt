@@ -3,7 +3,7 @@
 
 @id: 16
 @title: iPedia 1.3 for Palm released
-@date: 2005-01-10
+@date: 2005-01-17
 @body:
 iPedia 1.3 for Palm released. iPedia is a wireless encyclopedia whose
 content is constantly updated and expanded, making it an invaluable,
@@ -14,7 +14,7 @@ up-to-date, mobile educational resource.
   grew by 90 thousand, from around 350 thousand to more than 440 thousand
   <li>added ability to list articles linking to current article
   <li>added ability to list articles linked from current article
-  <li>fixed a connection termination problem 
+  <li>fixed rare connection termination problem 
 </ul>
 </p>
 <p>This upgrade is free for all existing owners of iPedia.</p>
