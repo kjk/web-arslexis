@@ -1,6 +1,21 @@
 # This is a source file for my RSS feed. use genRSSfeed.py
 # to generate news.xml file that should be put in my directory
 
+@id: 14
+@title: InfoMan 1.0 for Palm released
+@date: 2004-12-20
+@body:
+InfoMan 1.0 for Palm released. InfoMan is a wireless information agent
+offering movie times, latest box office information, weather information,
+currency converter, stock quotes, 411-like information, jokes.
+<p/>
+InfoMan gives you the best of the internet optimized for viewing
+on your smartphone or PDA.
+<p>
+Download <a href="/download.html">InfoMan free trial</a> and
+<a href="/ppc/ipedia/overview.html">read more about 
+its capabilities</a>.
+
 @id: 13
 @title: iPedia 1.2 for Palm released
 @date: 2004-12-13
