@@ -95,7 +95,6 @@ img.sideImage{
 	height: 0;
 }
 
-
 /* ------ SideBar ------ */
 td.sideBarPadding{
 	padding: 0px 10px 0px 10px;
@@ -127,7 +126,6 @@ td.sideBarContent{
 	padding: 4px 4px 4px 4px;
 	font-size: 11px;
 }
-
 
 /* ------ Navigation Tabs ------ */
 table.tabs {
@@ -211,9 +209,21 @@ td.tabLeftPadding{
 	/* border-bottom: solid rgb(160,160,160) 1px; */
 }
 
+td.docList {
+	background-color: rgb(200,254,254);
+	padding: 0px 24px 0px 0px;
+}
+
+td.docListHdr {
+	/* background-color: rgb(255,238,221); */
+	background-color: rgb(168,222,222);
+	font-size: 16px;
+	text-align: center;
+	font-weight: bold;
+	
+}
 
 /* ------ Text ------ */
-
 div.copyright {
 	text-align: center;
 	font-size: 11px;
@@ -250,7 +260,6 @@ span.date{
 	font-size: 11px;
 }
 
-
 /* ------ News ------ */
 td.newsDivider{
 	border-top: solid rgb(160,160,160) 1px;
@@ -260,7 +269,6 @@ img.avatar{
 	width: 64px;
 	height: 64px;
 }
-
 
 /* ------ Contact ------ */
 td.contactAvatar{

@@ -1,6 +1,27 @@
 # This is a source file for my RSS feed. use genRSSfeed.py
 # to generate news.xml file that should be put in my directory
 
+@id: 16
+@title: iPedia 1.3 for Palm released
+@date: 2005-01-10
+@body:
+iPedia 1.3 for Palm released. iPedia is a wireless encyclopedia whose
+content is constantly updated and expanded, making it an invaluable,
+up-to-date, mobile educational resource.
+<p>Changes since version 1.2:
+<ul>
+  <li>since iPedia release, the number of articles in English encyclopedia
+  grew by 90 thousand, from around 350 thousand to more than 440 thousand
+  <li>added ability to list articles linking to current article
+  <li>added ability to list articles linked from current article
+  <li>fixed a connection termination problem 
+</ul>
+</p>
+<p>This upgrade is free for all existing owners of iPedia.</p>
+<a href="download.html">Download free trial</a> and <a href="palm/ipedia/overview.html">
+learn more about iPedia</a>.
+<p/>
+
 @id: 15
 @title: InfoMan 1.1 for Palm released
 @date: 2005-01-03
