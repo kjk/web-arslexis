@@ -1,6 +1,19 @@
 # This is a source file for my RSS feed. use genRSSfeed.py
 # to generate news.xml file that should be put in my directory
 
+@id: 18
+@title: InfoMan 1.3 for Palm released
+@date: 2005-03-29
+@body:
+InfoMan 1.3 for Palm released. Changes in version 1.2:
+<ul>
+  <li>new module: dreams dictionary</li>
+  <li>reduced program size</li>
+</ul>
+Download <a href="/download.html">InfoMan free trial</a> and
+<a href="/palm/infoman/overview.html">read more about 
+its capabilities</a>.
+
 @id: 17
 @title: InfoMan 1.2 for Palm released
 @date: 2005-01-24
