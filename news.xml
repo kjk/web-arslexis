@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0"><channel><title>ArsLexis news</title><link>http://www.arslexis.com/news.html</link><description>Latest news asbout ArsLexis software</description><language>en-US</language><lastBuildDate>Tue, 05 Oct 2004 20:06:15 GMT</lastBuildDate><generator>PyRSS2Gen-0.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>iPedia 1.0 for Pocket PC released</title><link>http://www.arslexis.com/news.html</link><description>iPedia 1.0 for Pocket PC released. iPedia is a wireless encyclopedia for Pocket PC
+<rss version="2.0"><channel><title>ArsLexis news</title><link>http://www.arslexis.com/news.html</link><description>Latest news asbout ArsLexis software</description><language>en-US</language><lastBuildDate>Mon, 13 Dec 2004 11:29:29 GMT</lastBuildDate><generator>PyRSS2Gen-0.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>iPedia 1.2 for Palm released</title><link>http://www.arslexis.com/news.html</link><description>iPedia 1.2 for Palm released. iPedia is a wireless encyclopedia whose
+content is constantly being updated and expanded, making it an invaluable,
+up-to-date, mobile educational resource.
+&lt;p&gt;Changes since version 1.1:
+&lt;ul&gt;
+  &lt;li&gt;the number of articles in English encyclopedia grew by 60 thousand,
+  from around 350 thousand to more than 420 thousand
+  &lt;li&gt;improved 5-way navigation on Treo
+  &lt;li&gt;fixed disappearing menu problem on Treo 650
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;p&gt;This upgrade is free for all existing owners of iPedia.&lt;/p&gt;
+&lt;a href="download.html"&gt;Download free trial&lt;/a&gt; and &lt;a href="palm/ipedia/overview.html"&gt;
+learn more about iPedia&lt;/a&gt;.
+&lt;p/&gt;
+
+</description><guid isPermalink="true">http://www.arslexis.com/news/news.html#13</guid><pubDate>Mon, 13 Dec 2004 00:00:00 GMT</pubDate></item><item><title>iPedia 1.0 for Pocket PC released</title><link>http://www.arslexis.com/news.html</link><description>iPedia 1.0 for Pocket PC released. iPedia is a wireless encyclopedia for Pocket PC
 devices. With more than 350 thousand articles in English version it has facts and
 information about &lt;a href="/ppc/ipedia/manual/scenarios.html"&gt;almost anything&lt;/a&gt;.
 The content is constantly being updated and expanded, making iPedia an invaluable,
