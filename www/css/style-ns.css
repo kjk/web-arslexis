@@ -1,0 +1,23 @@
+<STYLE TYPE="text/css">
+
+P {
+  font-family: Georgia, 'Times New Roman', serif;
+  color: black;
+}
+
+BODY {
+  font-family: Georgia, 'Times New Roman', serif;
+  color: black;
+}
+
+A { text-decoration: underline; color: #6666FF; }
+A:active { text-decoration: underline; color: #6666DD; }
+A:hover { text-decoration: underline; color: #FF6666 }
+
+.m {
+	font-size: 75%; 
+	margin-left: 2em;
+}
+ 
+</STYLE>
+

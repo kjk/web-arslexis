@@ -1,0 +1,19 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine on
+  #RewriteRule   ^~(.+)  http://www.arslexis.com/~$1  [R,L]
+
+  # TODO: uncomment all below to get mobile-specific behaviour
+  #RewriteBase /
+
+  #RewriteCond %{HTTP_USER_AGENT} .*Smartphone.*
+  #RewriteRule ^$ /pda/sm.html     [L,R]
+
+  #RewriteCond %{HTTP_USER_AGENT} .*Smartphone.*
+  #RewriteRule ^index.html$ /pda/sm.html     [L,R]
+
+  #RewriteCond %{HTTP_USER_AGENT} .*Palm.*
+  #RewriteRule ^$ /pda/palm.html   [L,R]
+
+  #RewriteCond %{HTTP_USER_AGENT} .*Palm.*
+  #RewriteRule ^index.html$ /pda/palm.html   [L,R]
+</IfModule>
