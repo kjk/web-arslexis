@@ -1,6 +1,30 @@
 # This is a source file for my RSS feed. use genRSSfeed.py
 # to generate news.xml file that should be put in my directory
 
+@id: 15
+@title: InfoMan 1.1 for Palm released
+@date: 2005-01-03
+@body:
+InfoMan 1.1 for Palm released. InfoMan is a wireless information agent
+offering movie times, latest box office information, weather information,
+currency converter, stock quotes, 411-like information, gas prices in your
+area, jokes.
+<p/>
+InfoMan gives you the best of the internet optimized for viewing
+on your smartphone or PDA.
+<p/>
+Changes in version 1.1:
+<ul>
+<li>new module: cheapest gas prices in your area</li>
+<li>show when a given module was last updated</li>
+<li>show if a new version is available on the main screen</li>
+<li>improvements to how lists are displayed and 5-way navigation</li>
+</ul>
+<p/>
+Download <a href="/download.html">InfoMan free trial</a> and
+<a href="/ppc/ipedia/overview.html">read more about 
+its capabilities</a>.
+
 @id: 14
 @title: InfoMan 1.0 for Palm released
 @date: 2004-12-20
