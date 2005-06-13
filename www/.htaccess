@@ -2,6 +2,9 @@
   RewriteEngine on
   #RewriteRule   ^~(.+)  http://www.arslexis.com/~$1  [R,L]
 
+  # redirect /flickr to /palm/infoman/manual/flickr.html
+  RewriteRule ^flickr$ /palm/infoman/manual/flickr.html [L,R]
+
   # TODO: uncomment all below to get mobile-specific behaviour
   #RewriteBase /
 
