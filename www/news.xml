@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0"><channel><title>ArsLexis news</title><link>http://www.arslexis.com/news.html</link><description>Latest news asbout ArsLexis software</description><language>en-US</language><lastBuildDate>Wed, 01 Jun 2005 07:08:55 GMT</lastBuildDate><generator>PyRSS2Gen-0.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>InfoMan 1.3 for Palm released</title><link>http://www.arslexis.com/news.html</link><description>InfoMan 1.3 for Palm released. Changes in version 1.2:
+<rss version="2.0"><channel><title>ArsLexis news</title><link>http://www.arslexis.com/news.html</link><description>Latest news asbout ArsLexis software</description><language>en-US</language><lastBuildDate>Mon, 20 Jun 2005 07:33:39 GMT</lastBuildDate><generator>PyRSS2Gen-0.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>InfoMan 1.4 for Palm released</title><link>http://www.arslexis.com/news.html</link><description>InfoMan 1.4 for Palm released. Changes in version 1.3:
+&lt;ul&gt;
+  &lt;li&gt;new module amazon allows&lt;/li&gt;
+  &lt;ul&gt;
+    &lt;li&gt;browsing books, music, DVDs and all other amazon shops&lt;/li&gt;
+    &lt;li&gt;search for books, CDs, DVDs etc.&lt;/li&gt;
+    &lt;li&gt;view item details including amazon price, editorial review, user reviews and more&lt;/li&gt;
+    &lt;li&gt;browse listmania lists&lt;/li&gt;
+    &lt;li&gt;search for listmania lists&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/ul&gt;
+Download &lt;a href="/download.html"&gt;InfoMan free trial&lt;/a&gt; and
+&lt;a href="/palm/infoman/overview.html"&gt;read more about 
+its capabilities&lt;/a&gt;.
+
+</description><guid isPermalink="true">http://www.arslexis.com/news/news.html#19</guid><pubDate>Mon, 20 Jun 2005 00:00:00 GMT</pubDate></item><item><title>InfoMan 1.3 for Palm released</title><link>http://www.arslexis.com/news.html</link><description>InfoMan 1.3 for Palm released. Changes in version 1.2:
 &lt;ul&gt;
   &lt;li&gt;new module: dreams dictionary&lt;/li&gt;
   &lt;li&gt;reduced program size&lt;/li&gt;
