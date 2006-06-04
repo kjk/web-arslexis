@@ -5,6 +5,9 @@
   # redirect /flickr to /palm/infoman/flickr.html
   RewriteRule ^flickr$ /palm/infoman/flickr.html [L,R]
 
+  # redirect /pda to /
+  RewriteRule ^pda$ / [L,R]
+
   # TODO: uncomment all below to get mobile-specific behaviour
   #RewriteBase /
 
