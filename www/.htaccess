@@ -8,6 +8,17 @@
   # redirect /pda to /
   RewriteRule ^pda$ / [L,R]
 
+  RewriteRule ^dl/noah_lite.zip$ http://noahpro.org [L,R]
+  RewriteRule ^dl/noah_pro2_db.zip$ http://noahpro.org [L,R]
+  RewriteRule ^dl/noah_pro_demo.zip$ http://noahpro.org [L,R]
+  RewriteRule ^dl/thes_demo.zip$ http://noahpro.org [L,R]
+  RewriteRule ^dl/InfoMan.prc$ http://www.arslexis.com [L,R]
+  RewriteRule ^dl/InfoMan.zip$ http://www.arslexis.com [L,R]
+  RewriteRule ^dl/iNoah.prc$ http://www.arslexis.com [L,R]
+  RewriteRule ^dl/iNoah.zip$ http://www.arslexis.com [L,R]
+  RewriteRule ^dl/iPedia.prc$ http://www.arslexis.com [L,R]
+  RewriteRule ^dl/iPedia.zip$ http://www.arslexis.com [L,R]
+
   # TODO: uncomment all below to get mobile-specific behaviour
   #RewriteBase /
 
